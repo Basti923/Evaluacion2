@@ -14,5 +14,5 @@ Se desarrolló una aplicación interactiva en Python que consume la API REST de 
 
 1. Clonar el repositorio localmente:
    ```bash
-   git clone [https://github.com/Basti923/Evaluacion2.git](https://github.com/TuUsuario/Evaluacion2.git)
+   git clone [https://github.com/Basti923/Evaluacion2.git](https://github.com/Basti923/Evaluacion2.git)
    cd Evaluacion2
